@@ -1,6 +1,6 @@
 # my_sokoban
 
-An Epitech project to recode the system command, printf
+An Epitech project in Ncurses
 
 ## How to use it
 
